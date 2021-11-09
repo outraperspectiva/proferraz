@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proferraz/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/proferraz/static/js/main.11a97a29.chunk.js",
+    "main.js.map": "/proferraz/static/js/main.11a97a29.chunk.js.map",
+    "runtime-main.js": "/proferraz/static/js/runtime-main.0865d5ff.js",
+    "runtime-main.js.map": "/proferraz/static/js/runtime-main.0865d5ff.js.map",
+    "static/js/2.8c716c55.chunk.js": "/proferraz/static/js/2.8c716c55.chunk.js",
+    "static/js/2.8c716c55.chunk.js.map": "/proferraz/static/js/2.8c716c55.chunk.js.map",
+    "static/js/3.326ed216.chunk.js": "/proferraz/static/js/3.326ed216.chunk.js",
+    "static/js/3.326ed216.chunk.js.map": "/proferraz/static/js/3.326ed216.chunk.js.map",
+    "index.html": "/proferraz/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/proferraz/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8c716c55.chunk.js.LICENSE.txt": "/proferraz/static/js/2.8c716c55.chunk.js.LICENSE.txt",
+    "static/media/logo.99568c50.svg": "/proferraz/static/media/logo.99568c50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0865d5ff.js",
+    "static/js/2.8c716c55.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.11a97a29.chunk.js"
+  ]
+}
